@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/creack/utc",
+	"GoVersion": "go1.5.1",
+	"Deps": []
+}
