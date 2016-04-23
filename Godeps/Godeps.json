@@ -1,5 +1,17 @@
 {
 	"ImportPath": "github.com/creack/utc",
-	"GoVersion": "go1.5.1",
-	"Deps": []
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Deps": [
+		{
+			"ImportPath": "github.com/simplereach/timeutils",
+			"Comment": "1.1.0-8-gb00e3bf",
+			"Rev": "b00e3bf66cfa6813da8a68bb60f28330144404ed"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/bson",
+			"Comment": "r2016.02.04-1-gb6e2fa3",
+			"Rev": "b6e2fa371e64216a45e61072a96d4e3859f169da"
+		}
+	]
 }
